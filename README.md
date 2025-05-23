@@ -1,0 +1,1 @@
+This is the repo containing all the image processing of the GUI for the mine detection and disposal exploration vehicle of the ULGEN team in Türkiye.
