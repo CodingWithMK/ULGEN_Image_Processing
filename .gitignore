@@ -1,0 +1,24 @@
+# Datasets
+datasets/coco/images/
+datasets/coco/labels/
+datasets/coco/annotations
+*.zip
+
+# Images / Videos
+*.jpg
+*.png
+*.mp4
+
+# VS Code Settings
+.vscode/
+
+# Model weights
+*.pt
+*.onnx
+*.engine
+*.hef
+
+# Runtime outputs
+runs/
+__pycache__/
+.ipynb_checkpoints/
